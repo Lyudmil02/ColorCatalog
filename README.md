@@ -31,10 +31,10 @@ The main idea of the algorithm is as follows:
 ![LoadImageButton.png](https://github.com/Lyudmil02/ColorCatalog/blob/main/Images/LoadImageButton.png)
 
 ### Through these buttons you can choose which color scheme to work with
-![PantoneMunsellButtons.jpg](https://github.com/Lyudmil02/ColorCatalog/blob/main/Images/PantoneMunsellButtons.jpg)
+![PantoneMunsellButtons.png](https://github.com/Lyudmil02/ColorCatalog/blob/main/Images/PantoneMunsellButtons.png)
 
 ### Test image with Munsell color scheme
 ![testImage.png](https://github.com/Lyudmil02/ColorCatalog/blob/main/Images/testImage.png)
 
 ### Test image with Pantone color scheme
-![testImagePantone.png](https://github.com/Lyudmil02/ColorCatalog/blob/main/Images/testImagePantone.png)
+![testImagePantone.jpg](https://github.com/Lyudmil02/ColorCatalog/blob/main/Images/testImagePantone.jpg)
