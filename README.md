@@ -23,3 +23,6 @@ The main idea of the algorithm is as follows:
 7. If a close color is found, we increase the counter for the corresponding position in the color atlas histogram.
 
 8. Otherwise, when there is no color match, we increase the counter of the last position in the histogram, representing discrepancies.
+
+### Welcome Screen
+![theScreen.png](https://github.com/Lyudmil02/ColorCatalog/blob/main/Images/theScreen.png)
